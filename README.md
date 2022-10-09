@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tilak Pawar
 - 👀 I’m interested in the field of Astronomy and Astrophysics.
 - 🌱 I’m currently a Doctoral candidate at the Nicolaus Copernicus Astronomical Center, Poland.
-- ⭐ I’m currently working on eclipsing binary stars and pulsating stars in eclipsing binaries.
+- 💫 I’m currently working on eclipsing binary stars and pulsating stars in eclipsing binaries.
 - 📫 How to reach me: Email me on pawar@ncac.torun.pl
 
 <!---
